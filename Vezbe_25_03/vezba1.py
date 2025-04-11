@@ -45,4 +45,3 @@ def test_enkriptuj_poruku():
 # funkcija koja testira funkciju
 
 
-
