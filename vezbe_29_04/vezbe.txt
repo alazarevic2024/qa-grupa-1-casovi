@@ -1,0 +1,16 @@
+
+#### notes ####
+preuzeti program notes.zip i uraditi unit testove za njega, a zatim ih izvrsiti pomocu okvira pytest ili unittest
+
+#### calc ####
+preuzeti program calc.zip i uraditi unit testove za njega, a zatim ih izvrsiti pomocu okvira pytest ili unittest
+
+#### packages ####
+Preuzeti paket: packages.zip
+Kreira se aplikacija packages, pomocu koje korisnik treba da ima mogucnost manipulacije podacima vezanim za internet pakete (nazivi, cene i brzine)
+Kreirana je model klasa, ali je pre izrade korisnickog interfejsa potrebno kreirati jedinicne testove za tu klasu
+Sve klase je takodje potrebno i dokumentovati
+
+#### guitars ####
+Preuzeti paket: guitars.zip
+Ova vezba je ista kao prethodna. Treba je uraditi potpuno samostalno.
