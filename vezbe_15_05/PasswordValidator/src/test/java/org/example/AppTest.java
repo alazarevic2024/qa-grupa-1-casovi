@@ -9,7 +9,8 @@ import org.junit.runner.RunWith;
 /**
  * Unit test for simple App.
  */
-
+@RunWith(Cucumber.class)
+@CucumberOptions(publish = true)
 public class AppTest
 {
 
