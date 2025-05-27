@@ -1,0 +1,15 @@
+<predavanja>
+
+    <predavanje>
+        <naziv>Servisi</naziv>
+        <trajanje>3</trajanje>
+        <ucionica>B13</ucionica>
+    </predavanje>
+
+    <predavanje>
+        <naziv>Selenium</naziv>
+        <trajanje>2</trajanje>
+        <ucionica>B15</ucionica>
+    </predavanje>
+
+</predavanja>
