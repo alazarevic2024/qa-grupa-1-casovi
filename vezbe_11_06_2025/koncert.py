@@ -1,4 +1,5 @@
 # http://gresnik.com/koncert.php
+# tekst zadatka http://gresnik.com/koncert.txt
 import requests
 from bs4 import BeautifulSoup
 

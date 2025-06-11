@@ -1,5 +1,6 @@
 # http://gresnik.com/hitme.php
 # http://gresnik.com/hitme.php?aim=2
+# tekst zadatka http://gresnik.com/vezbe_sa_nitima.txt
 import requests
 from bs4 import BeautifulSoup
 import threading
