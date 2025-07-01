@@ -1,0 +1,5 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+HTTP Request - Sve vesti,30,618,76,1706,401.26,0.00%,13.86322,80.78,1.62,5967
+HTTP Request - Detalji,390,46,35,382,43.01,0.00%,152.52249,99.42,18.81,667.5
+Debug Sampler,30,0,0,1,0.37,0.00%,15.73977,8.45,0,549.6
+TOTAL,450,81,0,1706,181.72,0.00%,170.00378,168.16,19.5,1012.9
